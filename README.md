@@ -100,6 +100,8 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [Discord PTB](https://ptb.discord.com) | [Web](https://ptb.discord.com/app), [Windows x64](https://discord.com/api/downloads/distributions/app/installers/latest?channel=ptb&platform=win&arch=x64), [Windows arm64](https://discord.com/api/downloads/distributions/app/installers/latest?channel=ptb&platform=win&arch=arm64), [macOS](https://discord.com/api/download/ptb?platform=osx), [Debian/Ubuntu](https://discord.com/api/download/ptb?platform=linux), [Tarball](https://discord.com/api/download/ptb?platform=linux&format=tar.gz) | Public Test Build |
 | [Discord Canary](https://canary.discord.com) | [Web](https://canary.discord.com/app), [Windows x64](https://discord.com/api/downloads/distributions/app/installers/latest?channel=canary&platform=win&arch=x64), [Windows arm64](https://discord.com/api/downloads/distributions/app/installers/latest?channel=canary&platform=win&arch=arm64), [macOS](https://discord.com/api/download/canary?platform=osx), [Debian/Ubuntu](https://discord.com/api/download/canary?platform=linux), [Tarball](https://discord.com/api/download/canary?platform=linux&format=tar.gz) | Discord's [canary build](https://semaphoreci.com/blog/what-is-canary-deployment), releases features earlier than PTB |
 | Discord Development | [Windows x64](https://discord.com/api/downloads/distributions/app/installers/latest?channel=development&platform=win&arch=x64), [Windows arm64](https://discord.com/api/downloads/distributions/app/installers/latest?channel=development&platform=win&arch=arm64), [macOS](https://discord.com/api/download/development?platform=osx), [Debian/Ubuntu](https://discord.com/api/download/development?platform=linux), [Tarball](https://discord.com/api/download/development?platform=linux&format=tar.gz) | Essentially Discord's canary build but with updates a few days earlier |
+| Discord Phoenix | Windows x64, Windows arm64 | It's a Rust client, it's still in the internal version, we have very little information on this client |
+
 
 ### Mods
 
@@ -246,8 +248,6 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [Unofficial Discord 3DS Client](https://github.com/yourWaifu/Unofficial-Discord-3DS-Client) | This just a simple Discord client for the 3DS build using the `Sleepy Discord` library and the `Wslay` library. | [![C++][C++-Badge]][C++-Url] | 🟠 On hiatus, since November 2017 |
 | [Switchcord](https://github.com/vbe0201/switchcord) | An unofficial Discord client for the Nintendo Switch console. | [![C++][C++-Badge]][C++-Url] | 🔴 Discontinued |
 | [3DiScord](https://github.com/cheuble/3DiScord) | A Discord client for the Nintendo 3DS | [![C++][C++-Badge]][C++-Url] | ⛔ Discontinued. will get you banned |
-
-## Other clients
 
 ## Other clients
 
